@@ -20,8 +20,8 @@ h2, h4, p {
 }
 
 #card {
-  width: 900px;
-  height: 600px;
+  width: 1200px;
+  height: 800px;
   box-shadow: 2px 3px 7px 0px rgba(0,0,0,0.35);
   border-radius: 5px;
   overflow: hidden;
